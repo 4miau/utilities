@@ -66,13 +66,13 @@ This utilities package is a collection of various helper functions that I have p
 You can install the package via npm:
 
 ```sh
-npm i @miau/utilities
+npm i miau-utilities
 ```
 
 Or via yarn:
 
 ```sh
-yarn add @miau/utilities
+yarn add miau-utilities
 ```
 
 ## Usage
@@ -80,11 +80,11 @@ yarn add @miau/utilities
 Each individual utility function can be imported from subpaths for example: @miau/utilities/arrayCompact or the entire library
 
 ```ts
-import { arrayCompact, capitalize } from '@miau/utilities'
+import { arrayCompact, capitalize } from 'miau-utilities'
 
 // or
 
-import { isFunc } from '@miau/utilities/isFunc'
+import { isFunc } from 'miau-utilities/isFunc'
 ```
 
 ### Utilities

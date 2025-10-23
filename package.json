@@ -1,0 +1,19 @@
+{
+  "name": "miau-utilities",
+  "version": "0.0.1",
+  "description": "A collection of utilities used by miau for day to day needs.",
+  "license": "ISC",
+  "author": "miau",
+  "type": "commonjs",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rm -rf dist/ && tsc"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}

@@ -8,7 +8,7 @@
 </div>
 
 
-** Table of Contentes**
+**Table of Contents**
 
 - [Description](#description)
 - [Features](#features)
